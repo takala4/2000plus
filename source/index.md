@@ -1,0 +1,28 @@
+---
+documentclass: bxjsarticle
+title: 2000plus
+author: Takala
+header-includes:
+  - \usepackage[margin=1in]{geometry}
+  - \usepackage[ISO]{diffcoeff}
+  - \usepackage{pxfonts}
+---
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+  body {
+  font-family: "Noto Sans JP", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+</style>
+
+## 2000plusについて
+
+2022年09月22日（当時D3の秋）から続けている日記です．
+続けることを最大の目的としているので，内容が薄い日がかなりあります．
+
+本コンテンツの他媒体へのリンク掲載はご遠慮下さい．
+
+
+## 日記一覧
+
+
+* Day 0 : [20220922：所信表明](.\20220922.html) 
