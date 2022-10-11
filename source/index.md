@@ -44,3 +44,4 @@ header-includes:
 * Day 16 : [20221008：成田空港](.\20221008.html) 
 * Day 17 : [20221009：Lipschitz連続性](.\20221009.html) 
 * Day 18 : [20221010：新作をarXivに投稿した](.\20221010.html) 
+* Day 19 : [20221011：HUNTERxHUNTERの連載が再開](.\20221011.html) 
