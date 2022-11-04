@@ -68,3 +68,4 @@ header-includes:
 * Day 40 : [20221101：後輩が助教に](.\20221101.html) 
 * Day 41 : [20221102：研究が進まない](.\20221102.html) 
 * Day 42 : [20221103：ミサイル](.\20221103.html) 
+* Day 43 : [20221104：TwitterとInstagramとYouTube](.\20221104.html) 
