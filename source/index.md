@@ -69,3 +69,4 @@ header-includes:
 * Day 41 : [20221102：研究が進まない](.\20221102.html) 
 * Day 42 : [20221103：ミサイル](.\20221103.html) 
 * Day 43 : [20221104：TwitterとInstagramとYouTube](.\20221104.html) 
+* Day 44 : [20221105：友人の結婚式](.\20221105.html) 
