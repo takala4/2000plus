@@ -70,3 +70,4 @@ header-includes:
 * Day 42 : [20221103：ミサイル](.\20221103.html) 
 * Day 43 : [20221104：TwitterとInstagramとYouTube](.\20221104.html) 
 * Day 44 : [20221105：友人の結婚式](.\20221105.html) 
+* Day 45 : [20221106：パジェロミニ](.\20221106.html) 
